@@ -1,6 +1,5 @@
 members
-- ball
-- nepjune
-- beam
-- tawanlnwza
-jj
+- ball        -> Manager & Programmer
+- nepjune     -> Designer & Tester
+- beam        -> Designer
+- tawanlnwza  -> Tester
