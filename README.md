@@ -1,5 +1,5 @@
 members
 - ball        -> Manager & Programmer
-- nepjune     -> Designer & Tester
-- beam        -> Designer
-- tawanlnwza  -> Tester
+- nepjune     -> Arts & Music
+- beam        -> Animator
+- tawanlnwza  -> Sound effect & Tester
