@@ -7,3 +7,7 @@ members
 - beam        -> Animator
 - tawanlnwza  -> Sound effect & Tester
 
+สามารถเล่นเกมของเราได้ที่ 
+original : https://scratch.mit.edu/projects/892847022
+
+
